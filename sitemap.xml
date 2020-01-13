@@ -3,32 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2020-01-13-10-39-28/</loc>
+    <lastmod>2020-01-13T10:39:28-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
+    <lastmod>2020-01-13T10:39:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-01-13T10:39:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/drunk-dad-1/</loc>
     <lastmod>2019-09-23T06:01:41-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/drunk-dad-1/</loc>
-    <lastmod>2019-09-23T06:01:41-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-09-23T06:01:41-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/two-weeks/</loc>
+    <loc>/post/two-weeks/</loc>
     <lastmod>2019-06-15T18:03:48-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/thoughts-old-job/</loc>
+    <loc>/post/thoughts-old-job/</loc>
     <lastmod>2019-02-13T16:14:58-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/hope-self-loathing/</loc>
+    <loc>/post/hope-self-loathing/</loc>
     <lastmod>2019-01-11T09:44:43-05:00</lastmod>
   </url>
   
